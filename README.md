@@ -1,0 +1,1 @@
+# webpack_babel_es6_template
